@@ -1,5 +1,5 @@
 
-"use strict";
+"use!strict";
 
 var fs = require("fs");
 
@@ -93,3 +93,4 @@ page.open(url, function (status) {
     }
 });
 
+ 
